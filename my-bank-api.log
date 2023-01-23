@@ -1,0 +1,39 @@
+2023-01-23T21:00:40.034Z [my-bank-api] info: API STARTED and File Created
+2023-01-23T21:01:02.384Z [my-bank-api] info: POST /account - {"id":1,"name":"Nvutu Eladio","balance":"781"}
+2023-01-23T21:01:19.420Z [my-bank-api] info: POST /account - {"id":2,"name":"Eladio Kutabyala","balance":"180"}
+2023-01-23T21:01:28.528Z [my-bank-api] info: Get /account
+2023-01-23T21:01:44.379Z [my-bank-api] info: PUT /account - Name e Balance são obrigatórios
+2023-01-23T21:01:53.816Z [my-bank-api] info: PUT /account - {"id":2,"name":"Eladio Kutabyala","balance":"100"}
+2023-01-23T21:01:57.856Z [my-bank-api] info: PUT /account - Registro não encontrado
+2023-01-23T21:02:16.490Z [my-bank-api] info: PUT /account - Registro não encontrado
+2023-01-23T21:02:21.930Z [my-bank-api] info: PUT /account - {"id":1,"name":"Nvutu Eladio","balance":"781"}
+2023-01-23T21:11:31.938Z [my-bank-api] info: PUT /account - Registro não encontrado
+2023-01-23T21:11:45.106Z [my-bank-api] info: PUT /account - Registro não encontrado
+2023-01-23T21:11:56.946Z [my-bank-api] info: PUT /account - Registro não encontrado
+2023-01-23T21:11:58.584Z [my-bank-api] info: PUT /account - Registro não encontrado
+2023-01-23T21:34:01.721Z [my-bank-api] info: API STARTED
+2023-01-23T21:34:36.399Z [my-bank-api] info: PATCH /account - Id e Balance são obrigatórios
+2023-01-23T21:34:52.480Z [my-bank-api] info: PATCH /account - Registro não encontrado
+2023-01-23T21:35:17.608Z [my-bank-api] info: PATCH /account - Registro não encontrado
+2023-01-23T21:36:23.974Z [my-bank-api] info: API STARTED
+2023-01-23T21:36:36.021Z [my-bank-api] info: API STARTED
+2023-01-23T21:36:44.161Z [my-bank-api] info: PUT /account - ID, Name e Balance são obrigatórios
+2023-01-23T21:37:01.916Z [my-bank-api] info: PATCH /account - Registro não encontrado
+2023-01-23T21:40:05.145Z [my-bank-api] info: API STARTED
+2023-01-23T21:40:08.432Z [my-bank-api] info: PATCH /account - Cannot set properties of undefined (setting 'balance')
+2023-01-23T21:41:48.927Z [my-bank-api] info: API STARTED
+2023-01-23T21:41:52.875Z [my-bank-api] info: PATCH /account - Registro não encontrado
+2023-01-23T21:42:04.498Z [my-bank-api] info: Get /account
+2023-01-23T21:42:08.043Z [my-bank-api] info: Get /account
+2023-01-23T21:47:10.384Z [my-bank-api] info: API STARTED and File Created
+2023-01-23T21:47:24.954Z [my-bank-api] info: POST /account - {"id":1,"name":"Eladio Kutabyala","balance":"180"}
+2023-01-23T21:47:32.893Z [my-bank-api] info: POST /account - {"id":2,"name":"Nvutu Kutabyala","balance":"180"}
+2023-01-23T21:47:39.509Z [my-bank-api] info: POST /account - {"id":3,"name":"Manuel Kutabyala","balance":"180"}
+2023-01-23T21:47:44.021Z [my-bank-api] info: Get /account
+2023-01-23T21:48:04.745Z [my-bank-api] info: PUT /account - {"id":1,"name":"Eladio Kutabyala","balance":"100"}
+2023-01-23T21:48:18.640Z [my-bank-api] info: PATCH /account - Registro não encontrado
+2023-01-23T21:48:53.687Z [my-bank-api] info: PATCH /account - Registro não encontrado
+2023-01-23T21:57:01.286Z [my-bank-api] info: API STARTED
+2023-01-23T22:24:55.732Z [my-bank-api] info: API STARTED
+2023-01-23T22:25:05.619Z [my-bank-api] info: Get /account
+2023-01-23T22:28:56.467Z [my-bank-api] info: API STARTED
